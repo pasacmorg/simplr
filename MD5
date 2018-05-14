@@ -1,0 +1,16 @@
+d41d8cd98f00b204e9800998ecf8427e *ChangeLog
+3467acd77ec241f351488a601a7152d5 *DESCRIPTION
+43cb52b96f1a2c54a2272fa64313c142 *NAMESPACE
+ff11672421bbc8717657eb45a07527fa *R/simplr.R
+bc8da24bb91fc6173ee56a6d0e424aba *man/simplify.Rd
+578ffda765ada6cd66b6cc531a3e503f *src/auxiliary.h
+c859cc6d9d49c108e58e060abf1e91f1 *src/common.h
+10c17e64d61d5a586210a18b4e5356ef *src/exceptions.h
+b10405190a805e54bdc3654358bd91b9 *src/expression.cpp
+908c742f106b7eaae4ca15e81e663344 *src/expression.h
+a71d5bd6d7c50186dd9be901e4ab5908 *src/fastexpression.cpp
+e1dcda786efc05f9f2ec8c29919bbfb5 *src/fastexpression.h
+0c99098d6871ce94fe5be34a6fd13fa8 *src/r_interface.cpp
+a3c7b7149de7d04f2c185860ba57fd3f *src/tree.cpp
+b209bf79e2352f7a87dede7d49c147b3 *tests/testthat.R
+895efd1ffcb3cf7af0869c8082e1d712 *tests/testthat/test-simplify.R
